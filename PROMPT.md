@@ -359,7 +359,7 @@ briefing: add YYYY-MM-DD AI digest
 
 일일 조사 기록은 별도 PR 없이 기본 branch에 commit한다.
 
-프롬프트, workflow, 자동화 코드 변경만 PR로 관리한다.
+프롬프트 문구 수정은 사용자 지시가 명확하면 기본 branch에 직접 commit한다. 자동화 코드, workflow, 권한, 게시 대상처럼 실행 동작을 크게 바꾸는 변경만 필요할 때 PR로 관리한다.
 
 GitHub 기록 또는 push에 실패한 경우 Slack에 게시하지 않는다. 실패 단계와 원인을 GitHub issue로 남긴다. GitHub issue 생성도 실패하면 Codex 실행 로그에 다음을 구체적으로 남긴다.
 

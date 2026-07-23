@@ -12,6 +12,7 @@
 - 기본 branch: `main`
 - Slack workspace: `AIM-BRIDGE`
 - Slack channel: `#ai-trend`
+- Slack channel ID: `C07BV673Z53`
 - 게시 방식: GitHub 기록, commit, push가 성공하면 Slack에 자동 게시
 - X 사용 범위: 공개 접근 가능한 게시물만 사용
 - 강한 소식이 3개 미만인 경우: 검증 가능한 항목이 1~2개뿐이어도 게시할 수 있음
